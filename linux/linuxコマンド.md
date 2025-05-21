@@ -2,5 +2,5 @@
 `touch [オプション] [ファイル名]`  
 オプションがない場合：カレントディレクトリに空の新規ファイルを作成する  
 オプションがある場合：既存ファイルの最終更新日時をコマンド実行時点に更新する  
-[参考記事](https://zenn.dev/joho0724/articles/sankaku0724-newcreate9#touch%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3)
+参考：[あの日見たtouchコマンドの意味を僕達はまだ知らない。](https://zenn.dev/joho0724/articles/sankaku0724-newcreate9#touch%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AE%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3)
 
